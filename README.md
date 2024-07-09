@@ -530,7 +530,7 @@ Since, it’s mainly targeted to women, it’ll be great to add a feature which 
 
 We can develop a reward system based on users' activity levels on the app. The app could feature different stages that users progress through, determined by their daily step count. Users would need to sustain their activity level for a specified duration, such as a month, to advance to the next stage. Upon reaching each stage, users would earn a certain number of stars, which could be redeemed for discounts on other Bellabeat products.
 
-###•	Recommendation for the online campaign 
+### •	Recommendation for the online campaign 
 
 Make sure the online campaign portrays the Bellabeat app more than just a fitness activity app. It should be seen as a guide that empowers women to strike a balance in their personal and professional life and their health habits by educating and motivating them through daily app recommendations.
 
